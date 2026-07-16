@@ -593,6 +593,7 @@ a.tag {
 #dashboard .current,
 #dashboard.own a:hover {
   background: rgba(145, 252, 78,.9);
+  color: #000; 
 }
 
 #dashboard ul {
